@@ -1,0 +1,22 @@
+---
+packages:
+- name: go_1.5.3
+  version: !binary |-
+    ODgyZDE0ZTNmNmY4MDliN2E5ODRkMzc1ODlkYThjYzNkOGJjODRjZg==
+  fingerprint: !binary |-
+    ODgyZDE0ZTNmNmY4MDliN2E5ODRkMzc1ODlkYThjYzNkOGJjODRjZg==
+  sha1: !binary |-
+    NjcxNTFlNzI4YjgwNDU5ZTZhZWJmYWQwMDBmM2M2ZDBhYTZkMDNhNw==
+  dependencies: []
+jobs:
+- name: timer_job
+  version: !binary |-
+    YzQwMTEwZmI1ZDJmYjkxNzdiZWE0OTdmZDUzNDU2OGFhYzhhNTRmOQ==
+  fingerprint: !binary |-
+    YzQwMTEwZmI1ZDJmYjkxNzdiZWE0OTdmZDUzNDU2OGFhYzhhNTRmOQ==
+  sha1: !binary |-
+    YmI5MmM4MjY3NzM1NGQ5NWJjNDI5MGQwODVlMWFlYzIzN2QzOTZlNg==
+commit_hash: '00000000'
+uncommitted_changes: false
+name: timer_dev
+version: 0+dev.4

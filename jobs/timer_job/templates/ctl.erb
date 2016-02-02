@@ -1,0 +1,38 @@
+#!/bin/bash
+
+RUN_DIR=/var/vcap/sys/run/timer_job
+LOG_DIR=/var/vcap/sys/log/timer_job
+PIDFILE=${RUN_DIR}/pid
+
+case $1 in
+
+  start)
+    mkdir -p $RUN_DIR $LOG_DIR
+    chown -R vcap:vcap $RUN_DIR $LOG_DIR
+
+    echo $$ > $PIDFILE
+
+    cd /var/vcap/packages/timer_job
+
+    export PATH=/var/vcap/packages/go_1.5.3/go/bin:$PATH
+    export GOROOT=/var/vcap/packages/go_1.5.3/go
+
+    echo "*Start Timer job" >$LOG_DIR/timer_job.stdout.log
+    echo "*Start Timer job" >$LOG_DIR/timer_job.stderr.log
+
+    exec go run /var/vcap/packages/timer/main.go \
+      >>  $LOG_DIR/timer_job.stdout.log \
+      2>> $LOG_DIR/timer_job.stderr.log
+
+    ;;
+
+  stop)
+    kill -9 `cat $PIDFILE`
+    rm -f $PIDFILE
+
+    ;;
+
+  *)
+    echo "Usage: ctl {start|stop}" ;;
+
+esac

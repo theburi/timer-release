@@ -1,0 +1,8 @@
+
+name: timer_job
+templates:
+ ctl.erb: bin/ctl
+
+packages:
+- go_1.5.3
+- timer

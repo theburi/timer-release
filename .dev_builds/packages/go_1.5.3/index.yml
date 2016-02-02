@@ -1,0 +1,18 @@
+---
+builds:
+  !binary "NWM3NDQ3ZmRlNjA3MDc4N2Y2MWE4MjU5ZTQ1NWZmZjAwNjA3MDVlMQ==":
+    version: !binary |-
+      NWM3NDQ3ZmRlNjA3MDc4N2Y2MWE4MjU5ZTQ1NWZmZjAwNjA3MDVlMQ==
+    sha1: !binary |-
+      YTEwNGMyYmY5OWZjZDk4YTlhM2E0OGRjNWExZDY0NzYwNGQ3ZTNkOA==
+  !binary "ODgyZDE0ZTNmNmY4MDliN2E5ODRkMzc1ODlkYThjYzNkOGJjODRjZg==":
+    version: !binary |-
+      ODgyZDE0ZTNmNmY4MDliN2E5ODRkMzc1ODlkYThjYzNkOGJjODRjZg==
+    sha1: !binary |-
+      NjcxNTFlNzI4YjgwNDU5ZTZhZWJmYWQwMDBmM2M2ZDBhYTZkMDNhNw==
+  !binary "YThjNjZlNzIwNWExODQ1ZDM3ZmY5NGJlNThkYjQ0ODlkNmMyODY0NQ==":
+    version: !binary |-
+      YThjNjZlNzIwNWExODQ1ZDM3ZmY5NGJlNThkYjQ0ODlkNmMyODY0NQ==
+    sha1: !binary |-
+      OWM1NDI4ZWZjMDUyYzkwODMwOTA4MjA2M2NmMjQ3NTU0MzkwMDkxZA==
+format-version: '2'

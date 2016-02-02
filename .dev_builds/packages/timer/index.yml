@@ -1,0 +1,33 @@
+---
+builds:
+  !binary "ZmQ2MmEwNjVkZmRkNTE5MDA1OThkODExOWNhOTBhNjJjZTVmYmFhYQ==":
+    version: !binary |-
+      ZmQ2MmEwNjVkZmRkNTE5MDA1OThkODExOWNhOTBhNjJjZTVmYmFhYQ==
+    sha1: !binary |-
+      M2UwYTlhYTAwMmZhMTY4OTVmMzljZjAwNWRkZjk1ODVhYWY5OThkMQ==
+  !binary "OTUyNDM4MTlkODE4ZTg1ZDIxMTFiMTJjMDAwOTFiNmI5N2I4NTYzYg==":
+    version: !binary |-
+      OTUyNDM4MTlkODE4ZTg1ZDIxMTFiMTJjMDAwOTFiNmI5N2I4NTYzYg==
+    sha1: !binary |-
+      ZTUyMTAxMWE0MjFkNmY5NDQ3MWY2OTZkNDU0ZjUwMGQzYTZhMzc3NA==
+  !binary "OTM0MzU3ZDk4MjRhMjEwN2Q5MjkwNWI5ODkzZTcyNWIyYTYxYTAwYw==":
+    version: !binary |-
+      OTM0MzU3ZDk4MjRhMjEwN2Q5MjkwNWI5ODkzZTcyNWIyYTYxYTAwYw==
+    sha1: !binary |-
+      MjI5ZmIwMzAyY2RiNzljMGEyY2Q3ZTY2NmUyYTA0MzZhMDBkZjMyYg==
+  !binary "MzBlODlmYTI5Y2UyZTk4MjI0YTg0OTA5YjlmNWNiNmVhNjQ0MDhiYw==":
+    version: !binary |-
+      MzBlODlmYTI5Y2UyZTk4MjI0YTg0OTA5YjlmNWNiNmVhNjQ0MDhiYw==
+    sha1: !binary |-
+      MjU0NzJhZGZmZTdiMWQ4NDU1ODEwOWRmNzJjM2VhNjVkNGIxYjdiNA==
+  !binary "MjlhNDM0OTg1OTA1M2EwODI4OWU3Mzk2OTc5OTdiM2MxNTRjM2ZkYg==":
+    version: !binary |-
+      MjlhNDM0OTg1OTA1M2EwODI4OWU3Mzk2OTc5OTdiM2MxNTRjM2ZkYg==
+    sha1: !binary |-
+      MDU1MmY4YjJlZTMyYjY1ZGQzZmVhMzI0N2ZhMTY3MmUxYTFmNTJiNg==
+  !binary "M2JmMTJhNTdhZWQ3NWQ5MjQ2ZDgwOTk2MzlhOGRmOGQ2NGI1YWY1OA==":
+    version: !binary |-
+      M2JmMTJhNTdhZWQ3NWQ5MjQ2ZDgwOTk2MzlhOGRmOGQ2NGI1YWY1OA==
+    sha1: !binary |-
+      MDE0YmI1NGViNzFjMjFjMDAxMDE0YjgxODEwMzBlYTlhM2FiMDhiMg==
+format-version: '2'

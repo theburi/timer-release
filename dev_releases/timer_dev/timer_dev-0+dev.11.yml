@@ -1,0 +1,31 @@
+---
+packages:
+- name: go_1.5.3
+  version: !binary |-
+    YThjNjZlNzIwNWExODQ1ZDM3ZmY5NGJlNThkYjQ0ODlkNmMyODY0NQ==
+  fingerprint: !binary |-
+    YThjNjZlNzIwNWExODQ1ZDM3ZmY5NGJlNThkYjQ0ODlkNmMyODY0NQ==
+  sha1: !binary |-
+    OWM1NDI4ZWZjMDUyYzkwODMwOTA4MjA2M2NmMjQ3NTU0MzkwMDkxZA==
+  dependencies: []
+- name: timer
+  version: !binary |-
+    OTM0MzU3ZDk4MjRhMjEwN2Q5MjkwNWI5ODkzZTcyNWIyYTYxYTAwYw==
+  fingerprint: !binary |-
+    OTM0MzU3ZDk4MjRhMjEwN2Q5MjkwNWI5ODkzZTcyNWIyYTYxYTAwYw==
+  sha1: !binary |-
+    MjI5ZmIwMzAyY2RiNzljMGEyY2Q3ZTY2NmUyYTA0MzZhMDBkZjMyYg==
+  dependencies:
+  - go_1.5.3
+jobs:
+- name: timer_job
+  version: !binary |-
+    NGU2NTExYjEyN2JmMDM1NTc5ZGIzMTBmNzMxNmQ0ZTY3MjA0MGYzYw==
+  fingerprint: !binary |-
+    NGU2NTExYjEyN2JmMDM1NTc5ZGIzMTBmNzMxNmQ0ZTY3MjA0MGYzYw==
+  sha1: !binary |-
+    NDM2OGViOGYwNGY5NTNhZDUzMjhjNWUyYzg5Mjk5ZDNiZTc4ZWQ0Mg==
+commit_hash: '00000000'
+uncommitted_changes: false
+name: timer_dev
+version: 0+dev.11

@@ -1,0 +1,8 @@
+---
+name: timer
+
+dependencies:
+ - go_1.5.3
+
+files:
+ - timer/*
